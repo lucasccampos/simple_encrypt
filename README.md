@@ -1,2 +1,2 @@
-# Simple AES+PBKDF2 Encrypt/Decrypt Program
-Encrypt and Descrypt any text using a password
+# AES+PBKDF2 Encrypt/Decrypt
+Encrypt and Decrypt any text using a password
